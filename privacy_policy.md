@@ -23,10 +23,10 @@ Link to privacy policy of third party service providers used by the app
 
 **Use of Android Permissions**
 
-*   **WRITE_EXTERNAL_STORAGE**
+*   **WRITE_EXTERNAL_STORAGE**  
     **READ_EXTERNAL_STORAGE** - uses to store/save user data such as protos of user avatar.
 
-*   **TACCESS_COARSE_LOCATION
+*   **ACCESS_COARSE_LOCATION  
     **ACCESS_FINE_LOCATION** - uses in app search service to find closest colleges to user location.
 
 App uses this permissions to make work properly it's services. No information will be sent to remote servers or used by third parties.
